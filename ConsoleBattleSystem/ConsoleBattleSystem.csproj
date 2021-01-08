@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BattleSystem.Abstractions" Version="0.1.0" />
+    <PackageReference Include="BattleSystem.Battles" Version="0.1.0" />
+    <PackageReference Include="BattleSystem.Core" Version="0.1.0" />
+  </ItemGroup>
+
+</Project>
